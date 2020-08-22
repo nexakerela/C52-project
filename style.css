@@ -1,0 +1,11 @@
+.top{
+   padding-top: 25px;
+}
+
+a:link{
+   color:white;
+}
+
+a:visited{
+   color: darkslateblue;
+}
